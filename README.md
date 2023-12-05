@@ -1,5 +1,5 @@
 # MediTime-Project
-by. Cueto, Jonathan T.
-    <br>Rilano, Nathaniel L.
-    <br>Samson, Arvee P.
-    <br>Teanila, Renz Mico
+by.<br> Cueto, Jonathan T. - DOCUMENTATION
+    <br>Rilano, Nathaniel L. - PROGRAMMING/DOCUMENTATION
+    <br>Samson, Arvee P. - DOCUMENTATION
+    <br>Teanila, Renz Mico - PRINT
