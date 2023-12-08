@@ -27,7 +27,7 @@ Based on the given rubric, the group assessed the system and this is the result:
 
 | SR-Code                      |         Member         |  Grade  |              Desgination              |
 | ---------------------------- | ---------------------- | ------- | --------------------------------------|   
-| 21-05699@g.batstate-u.edu.ph | Cueto, Jonathan T.     |   30%   | Documentator                          |
+| 21-05699@g.batstate-u.edu.ph | Cueto, Jonathan T.     |   30%   | System Maintaner/Documentator         |
 | 21-05867@g.batstate-u.edu.ph | Rilano, Nathaniel L.   |   40%   | Programmer/Web Developer/Documentator |
-| 21-09000@g.batstate-u.edu.ph | Samson, Arvee P.       |   30%   | Documentator                          |
+| 21-09000@g.batstate-u.edu.ph | Samson, Arvee P.       |   30%   | System Analyst/Documentator           |
 |                              | Total                  |   100%  |                                       |
