@@ -57,7 +57,7 @@ Based on the given rubric, the group assessed the system and this is the result:
 <br><h1>DIAGRAMS</h1>
 <h2>MODEL</h2><br><br>
 ![MODEL](https://github.com/NathanielRilano/MediTime-Project/assets/117181953/7f9efb65-6f4f-4630-ab17-8886c70e8ed0)
-
+<br>
 <br>CONTEXT DIAGRAM
 <br>
 ![CONTEXT DIAGRAM](https://github.com/NathanielRilano/MediTime-Project/assets/117181953/ccec1da5-70b2-4e17-9242-f2f1b071c95a)
@@ -72,7 +72,7 @@ Based on the given rubric, the group assessed the system and this is the result:
 
 <br>
 <br>SEQUENCE DIAGRAM<br>
-![SEQ](https://github.com/NathanielRilano/MediTime-Project/assets/117181953/8cf24422-e8a2-4811-bffb-3cda55a73325)
+![SEQ](https://github.com/NathanielRilano/MediTime-Project/assets/117181953/8cf24422-e8a2-4811-bffb-3cda55a73325)<br>
 
 <br><br>
 PRESENTATION LINK:<br>
