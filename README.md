@@ -20,7 +20,7 @@ Barangay Talumpok Silangan.<br>
 • Reduce patient wait times by implementing an optimized scheduling system that 
 minimizes overbooking and ensures a steady flow of patients throughout the 
 vaccination clinic.<br>
-2. User-friendly Patient Interface:<br><br>
+<br>2. User-friendly Patient Interface:<br><br>
 <br>• Develop a user-friendly interface for patients to easily schedule, reschedule, or 
 cancel vaccination appointments. Consider incorporating multiple communication 
 channels, such as online portals, mobile apps, and phone services.<br>
