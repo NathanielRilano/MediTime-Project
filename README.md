@@ -51,8 +51,9 @@ Based on the given rubric, the group assessed the system and this is the result:
 ![ACTION](https://github.com/NathanielRilano/MediTime-Project/assets/117181953/f3f99126-f7b4-47db-a7d4-4e8acb9efbe6)
 <br><br>REPORTS
 ![REPORT](https://github.com/NathanielRilano/MediTime-Project/assets/117181953/654c1cc2-b346-4e47-9350-3ae4b91317c9)
+<br></h2>
 <br>
-<br><br>
+<br><h1>DIAGRAM></h1>
 MODEL
 ![MODEL](https://github.com/NathanielRilano/MediTime-Project/assets/117181953/1744e2e5-6b73-492d-844f-7cd44c2ad389)
 <br>CONTEXT DIAGRAM
@@ -66,6 +67,10 @@ MODEL
 <br>
 <br>SEQUENCE DIAGRAM
 ![SEQ](https://github.com/NathanielRilano/MediTime-Project/assets/117181953/688e4624-3d71-4017-9ff6-879e0ce9d3d7)
+<br><br>
+PRESENTATION LINK:<br>
+https://drive.google.com/file/d/1L-_Xc6DQEfECmxJh1VYD5R4gfU5fRa4P/view?usp=drive_link
+
 
 
 
