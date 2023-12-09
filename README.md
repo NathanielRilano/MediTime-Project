@@ -1,5 +1,5 @@
 <h1><font color=blue><b></b>MEDITIME "YOUR HEALTH VISIT SCHEDULER"<h1></h1><br>
-<br><h2><b>Project Description</h2><br></b>
+<h2><b>Project Description</h2><br></b>
 <center><h4>The Medime System for Barangay Talumpok is a comprehensive healthcare management platform designed specifically for the needs of the community within Barangay Talumpok. This system serves as a centralized hub for organizing, monitoring, and enhancing healthcare services within the barangay, aiming to improve the overall well-being of its residents.</h></center> <br><br>
 <h1>Sustainable Development Goal 3: Good Health and Well being <br></h1>
 MediTime’s intended impact is in harmony with Sustainable Development Goal 3, 
@@ -17,14 +17,14 @@ at ensuring a smooth and efficient process for both healthcare providers.<br>
 1. Minimize Wait Times:<br>
 • To efficiently schedule and manage appointments for healthcare providers in 
 Barangay Talumpok Silangan.<br>
-• Reduce patient wait times by implementing an optimized scheduling system that 
+<br>• Reduce patient wait times by implementing an optimized scheduling system that 
 minimizes overbooking and ensures a steady flow of patients throughout the 
 vaccination clinic.<br>
-2. User-friendly Patient Interface:<br>
+<br>2. User-friendly Patient Interface:<br>
 • Develop a user-friendly interface for patients to easily schedule, reschedule, or 
 cancel vaccination appointments. Consider incorporating multiple communication 
 channels, such as online portals, mobile apps, and phone services.<br>
-3. Flexible Scheduling Options:<br>
+<br>3. Flexible Scheduling Options:<br>
 • To allow patients to create accounts with their personal information, appointment 
 slots and to identify if they are a citizen of Talumpok Silangan<br>
 • Objective: Provide flexibility in scheduling options, allowing individuals to 
