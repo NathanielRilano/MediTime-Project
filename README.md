@@ -72,8 +72,9 @@ Based on the given rubric, the group assessed the system and this is the result:
 
 <br>
 <br>SEQUENCE DIAGRAM<br>
+<
 ![SEQ](https://github.com/NathanielRilano/MediTime-Project/assets/117181953/8cf24422-e8a2-4811-bffb-3cda55a73325)<br>
-
+<br>
 <br><br>
 PRESENTATION LINK:<br>
 https://drive.google.com/file/d/1L-_Xc6DQEfECmxJh1VYD5R4gfU5fRa4P/view?usp=drive_link
