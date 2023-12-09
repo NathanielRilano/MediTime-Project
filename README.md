@@ -58,12 +58,11 @@ Based on the given rubric, the group assessed the system and this is the result:
 MODEL<br><br>
 <br>
 ![MODEL](https://github.com/NathanielRilano/MediTime-Project/assets/117181953/62015cfe-14f6-49ab-9f78-c0a908b3edcc)
-
+<br>
 <br>
 <br>CONTEXT DIAGRAM
+<br>![CONTEXT DIAGRAM](https://github.com/NathanielRilano/MediTime-Project/assets/117181953/ccec1da5-70b2-4e17-9242-f2f1b071c95a)
 <br>
-![CONTEXT DIAGRAM](https://github.com/NathanielRilano/MediTime-Project/assets/117181953/ccec1da5-70b2-4e17-9242-f2f1b071c95a)
-
 
 <br>LEVEL 0 DIAGRAM<br>
 ![LEVEL 0](https://github.com/NathanielRilano/MediTime-Project/assets/117181953/b5b2d5a2-49a1-4212-bd3e-687515d5c0d0)
