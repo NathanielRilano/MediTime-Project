@@ -1,7 +1,7 @@
 <h1><font color=blue><b></b>MEDITIME "YOUR HEALTH VISIT SCHEDULER"<h1></h1><br>
 <h2><b>Project Description</h2><br></b>
 <center><h4>The Medime System for Barangay Talumpok is a comprehensive healthcare management platform designed specifically for the needs of the community within Barangay Talumpok. This system serves as a centralized hub for organizing, monitoring, and enhancing healthcare services within the barangay, aiming to improve the overall well-being of its residents.</h></center> <br><br>
-<h1>Sustainable Development Goal 3: Good Health and Well being <br></h1>
+<h2>Sustainable Development Goal 3: Good Health and Well being <br></h2>
 MediTime’s intended impact is in harmony with Sustainable Development Goal 3, 
 emphasizing the importance of averting potential diseases among the residents of Barangay 
 Talumpok, Batangas City. This involves promoting healthy lives by implementing a wellorganized schedule of appointments for regular check-ups and providing complimentary 
@@ -11,21 +11,21 @@ MediTime to community health facilities, it becomes feasible to reduce potential
 This improvement facilitates the promotion of preventive measures, early detection, and timely 
 interventions, thereby contributing significantly to the overall reduction of health-related risks 
 within the community.<br>
-<br>Objectives of the Project<br>
+<br><h2>Objectives of the Project</h2><br>
 Implementing a medical scheduling system for vaccination comes with specific objectives aimed 
 at ensuring a smooth and efficient process for both healthcare providers.<br>
 1. Minimize Wait Times:<br>
-• To efficiently schedule and manage appointments for healthcare providers in 
+<br>• To efficiently schedule and manage appointments for healthcare providers in 
 Barangay Talumpok Silangan.<br>
 <br>• Reduce patient wait times by implementing an optimized scheduling system that 
 minimizes overbooking and ensures a steady flow of patients throughout the 
 vaccination clinic.<br>
 <br>2. User-friendly Patient Interface:<br>
-• Develop a user-friendly interface for patients to easily schedule, reschedule, or 
+<br>• Develop a user-friendly interface for patients to easily schedule, reschedule, or 
 cancel vaccination appointments. Consider incorporating multiple communication 
 channels, such as online portals, mobile apps, and phone services.<br>
 <br>3. Flexible Scheduling Options:<br>
-• To allow patients to create accounts with their personal information, appointment 
+<br>• To allow patients to create accounts with their personal information, appointment 
 slots and to identify if they are a citizen of Talumpok Silangan<br>
 • Objective: Provide flexibility in scheduling options, allowing individuals to 
 choose convenient time slots while ensuring that the scheduling system remains 
