@@ -1,7 +1,7 @@
 <h1><font color=blue><b></b>MEDITIME "YOUR HEALTH VISIT SCHEDULER"<h1></h1><br>
 <br><h2><b>Project Description</h2><br></b>
 <center><h4>The Medime System for Barangay Talumpok is a comprehensive healthcare management platform designed specifically for the needs of the community within Barangay Talumpok. This system serves as a centralized hub for organizing, monitoring, and enhancing healthcare services within the barangay, aiming to improve the overall well-being of its residents.</h></center> <br><br>
-Sustainable Development Goal 3: Good Health and Well being <br>
+<h1>Sustainable Development Goal 3: Good Health and Well being <br></h1>
 MediTime’s intended impact is in harmony with Sustainable Development Goal 3, 
 emphasizing the importance of averting potential diseases among the residents of Barangay 
 Talumpok, Batangas City. This involves promoting healthy lives by implementing a wellorganized schedule of appointments for regular check-ups and providing complimentary 
