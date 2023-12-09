@@ -1,6 +1,6 @@
 MEDITIME "YOUR HEALTH VISIT SCHEDULER"<br>
 <br><b>Project Description<br></b>
-The Medime System for Barangay Talumpok is a comprehensive healthcare management platform designed specifically for the needs of the community within Barangay Talumpok. This system serves as a centralized hub for organizing, monitoring, and enhancing healthcare services within the barangay, aiming to improve the overall well-being of its residents.
+<center>The Medime System for Barangay Talumpok is a comprehensive healthcare management platform designed specifically for the needs of the community within Barangay Talumpok. This system serves as a centralized hub for organizing, monitoring, and enhancing healthcare services within the barangay, aiming to improve the overall well-being of its residents.</center> <br>
 A Project Documentation in Partial Fullfillment for the Requirements of:
 * IT 311 - System Administration and Maintenance
 * IT 312 - System Integration and Architecture
