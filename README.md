@@ -56,18 +56,23 @@ Based on the given rubric, the group assessed the system and this is the result:
 <br>
 <br><h1>DIAGRAMS</h1>
 <h2>MODEL</h2>
-![MODEL](https://github.com/NathanielRilano/MediTime-Project/assets/117181953/1744e2e5-6b73-492d-844f-7cd44c2ad389)
+![MODEL](https://github.com/NathanielRilano/MediTime-Project/assets/117181953/7f9efb65-6f4f-4630-ab17-8886c70e8ed0)
+
 <br>CONTEXT DIAGRAM
-![CONTEXT DIAGRAM](https://github.com/NathanielRilano/MediTime-Project/assets/117181953/e481704d-2a81-438e-a2bd-0a5d7108c3cc)
+![CONTEXT DIAGRAM](https://github.com/NathanielRilano/MediTime-Project/assets/117181953/ccec1da5-70b2-4e17-9242-f2f1b071c95a)
+
 <br>
 <br>LEVEL 0 DIAGRAM
-![LEVEL 0](https://github.com/NathanielRilano/MediTime-Project/assets/117181953/4b09e08a-11b4-460c-9df0-980cadd99bfd)
+![LEVEL 0](https://github.com/NathanielRilano/MediTime-Project/assets/117181953/b5b2d5a2-49a1-4212-bd3e-687515d5c0d0)
+
 <br>
 <br>USE CASE DIAGRAM
-![USE CASE](https://github.com/NathanielRilano/MediTime-Project/assets/117181953/17391dfd-a7b4-40de-b63c-cf5fa7b8745d)
+![USE CASE](https://github.com/NathanielRilano/MediTime-Project/assets/117181953/53cf1e5e-b6bf-4971-be5f-2ea36a12fdef)
+
 <br>
 <br>SEQUENCE DIAGRAM
-![SEQ](https://github.com/NathanielRilano/MediTime-Project/assets/117181953/688e4624-3d71-4017-9ff6-879e0ce9d3d7)
+![SEQ](https://github.com/NathanielRilano/MediTime-Project/assets/117181953/8cf24422-e8a2-4811-bffb-3cda55a73325)
+
 <br><br>
 PRESENTATION LINK:<br>
 https://drive.google.com/file/d/1L-_Xc6DQEfECmxJh1VYD5R4gfU5fRa4P/view?usp=drive_link
