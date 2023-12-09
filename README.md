@@ -17,7 +17,7 @@ at ensuring a smooth and efficient process for both healthcare providers.<br>
 1. Minimize Wait Times:<br><br>
 • To efficiently schedule and manage appointments for healthcare providers in 
 Barangay Talumpok Silangan.<br>
-<br>• Reduce patient wait times by implementing an optimized scheduling system that 
+• Reduce patient wait times by implementing an optimized scheduling system that 
 minimizes overbooking and ensures a steady flow of patients throughout the 
 vaccination clinic.<br>
 2. User-friendly Patient Interface:<br><br>
