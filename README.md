@@ -33,6 +33,6 @@ Based on the given rubric, the group assessed the system and this is the result:
 | 21-09000@g.batstate-u.edu.ph | Samson, Arvee P.       |   30%   | System Analyst/Documentator           |
 |                              | Total                  |   100%  |                                       |
 <br>
-<br>
+<br><b><h3>HOME PAGE 
 
 ![HOME](https://github.com/NathanielRilano/MediTime-Project/assets/117181953/75b7e829-b506-44ce-b7ad-079a24d74c36)
