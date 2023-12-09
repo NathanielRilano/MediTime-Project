@@ -73,7 +73,7 @@ MODEL<br><br>
 ![USE CASE](https://github.com/NathanielRilano/MediTime-Project/assets/117181953/53cf1e5e-b6bf-4971-be5f-2ea36a12fdef)
 
 <br>
-<br>SEQUENCE DIAGRAM
+<br>SEQUENCE DIAGRAM<br>
 <br>
 ![SEQ](https://github.com/NathanielRilano/MediTime-Project/assets/117181953/8a1010c5-3e3e-4763-92bb-64be983527c5)<br>
 
