@@ -56,7 +56,9 @@ Based on the given rubric, the group assessed the system and this is the result:
 <br>
 <br><h1>DIAGRAMS</h1>
 <h2>MODEL</h2><br><br>
-![MODEL](https://github.com/NathanielRilano/MediTime-Project/assets/117181953/7f9efb65-6f4f-4630-ab17-8886c70e8ed0)
+<br>
+![MODEL](https://github.com/NathanielRilano/MediTime-Project/assets/117181953/62015cfe-14f6-49ab-9f78-c0a908b3edcc)
+
 <br>
 <br>CONTEXT DIAGRAM
 <br>
