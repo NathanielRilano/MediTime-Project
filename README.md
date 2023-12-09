@@ -29,8 +29,8 @@ channels, such as online portals, mobile apps, and phone services.<br>
 slots and to identify if they are a citizen of Talumpok Silangan<br>
 • Objective: Provide flexibility in scheduling options, allowing individuals to 
 choose convenient time slots while ensuring that the scheduling system remains 
-adaptable to changes in vaccine availability<br>
-____________________________________________________________________________
+adaptable to changes in vaccine availability<br><br>
+__________________________________________________________________________________________________________________<br>
 <br>A Project Documentation in Partial Fullfillment for the Requirements of:
 <br>* IT 311 - System Administration and Maintenance
 <br>* IT 312 - System Integration and Architecture
