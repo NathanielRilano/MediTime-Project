@@ -61,6 +61,7 @@ MODEL<br><br>
 <br>
 <br>
 <br>CONTEXT DIAGRAM
+<br>
 <br>![CONTEXT DIAGRAM](https://github.com/NathanielRilano/MediTime-Project/assets/117181953/ccec1da5-70b2-4e17-9242-f2f1b071c95a)
 <br>
 
@@ -73,8 +74,8 @@ MODEL<br><br>
 
 <br>
 <br>SEQUENCE DIAGRAM<br>
-<
-![SEQ](https://github.com/NathanielRilano/MediTime-Project/assets/117181953/8cf24422-e8a2-4811-bffb-3cda55a73325)<br>
+
+<br>![SEQ](https://github.com/NathanielRilano/MediTime-Project/assets/117181953/8cf24422-e8a2-4811-bffb-3cda55a73325)<br>
 <br>
 <br><br>
 PRESENTATION LINK:<br>
