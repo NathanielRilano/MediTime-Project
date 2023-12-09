@@ -4,27 +4,27 @@
 <h1>Sustainable Development Goal 3: Good Health and Well being <br></h1>
 MediTime’s intended impact is in harmony with Sustainable Development Goal 3, 
 emphasizing the importance of averting potential diseases among the residents of Barangay 
-Talumpok, Batangas City. This involves promoting healthy lives by implementing a wellorganized schedule of appointments for regular check-ups and providing complimentary 
+Talumpok, Batangas City. This involves promoting healthy lives by implementing a wellorganized schedule of appointments for regular check-ups and providing complimentary 
 vaccinations across all age groups. The aim is to proactively address health concerns and 
 enhance the well-being of the community. By enhancing the quality of services provided by 
 MediTime to community health facilities, it becomes feasible to reduce potential disease rates. 
 This improvement facilitates the promotion of preventive measures, early detection, and timely 
 interventions, thereby contributing significantly to the overall reduction of health-related risks 
 within the community.<br>
-Objectives of the Project<br>
+<br>Objectives of the Project<br>
 Implementing a medical scheduling system for vaccination comes with specific objectives aimed 
 at ensuring a smooth and efficient process for both healthcare providers.<br>
-1. Minimize Wait Times:
+1. Minimize Wait Times:<br>
 • To efficiently schedule and manage appointments for healthcare providers in 
 Barangay Talumpok Silangan.<br>
 • Reduce patient wait times by implementing an optimized scheduling system that 
 minimizes overbooking and ensures a steady flow of patients throughout the 
 vaccination clinic.<br>
-2. User-friendly Patient Interface:
+2. User-friendly Patient Interface:<br>
 • Develop a user-friendly interface for patients to easily schedule, reschedule, or 
 cancel vaccination appointments. Consider incorporating multiple communication 
 channels, such as online portals, mobile apps, and phone services.<br>
-3. Flexible Scheduling Options:
+3. Flexible Scheduling Options:<br>
 • To allow patients to create accounts with their personal information, appointment 
 slots and to identify if they are a citizen of Talumpok Silangan<br>
 • Objective: Provide flexibility in scheduling options, allowing individuals to 
