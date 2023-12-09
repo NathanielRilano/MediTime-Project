@@ -36,26 +36,40 @@ Based on the given rubric, the group assessed the system and this is the result:
 <br><b><h2>HOME PAGE 
 
 ![HOME](https://github.com/NathanielRilano/MediTime-Project/assets/117181953/75b7e829-b506-44ce-b7ad-079a24d74c36)
+<br>
 <br>APPOINTMENT
 ![APPOINTMENT](https://github.com/NathanielRilano/MediTime-Project/assets/117181953/3bc8ec35-1bf7-49cf-a237-fa223b528244)
-<br>APPOINTMENT CHECKER
+<br><br>APPOINTMENT CHECKER
 ![CHECK APPOINTMENT](https://github.com/NathanielRilano/MediTime-Project/assets/117181953/a15b6941-4e67-4962-92e7-96a994aca6d4)
-<br>SIGN IN
+<br><br>SIGN IN
 ![SIGN IN](https://github.com/NathanielRilano/MediTime-Project/assets/117181953/258949dc-51be-4c84-94f0-fad7e99eeaf0)
-<br>ADMIN DASHBOARD
+<br><br>ADMIN DASHBOARD
 ![ADMIN DASHBOARD](https://github.com/NathanielRilano/MediTime-Project/assets/117181953/c6d4d28a-8c6f-457a-bf9e-1f281b0b04b6)
-<BR>APPOINTMENT LIST
+<br><br>APPOINTMENT LIST
 ![APPOINTMENTS](https://github.com/NathanielRilano/MediTime-Project/assets/117181953/9c63b765-c04e-4467-8796-d89b779fed40)
-<br>ACTION
+<br><br>ACTION
 ![ACTION](https://github.com/NathanielRilano/MediTime-Project/assets/117181953/f3f99126-f7b4-47db-a7d4-4e8acb9efbe6)
-<br>REPORTS
+<br><br>REPORTS
 ![REPORT](https://github.com/NathanielRilano/MediTime-Project/assets/117181953/654c1cc2-b346-4e47-9350-3ae4b91317c9)
 <br>
-<br>
+<br><br>
 MODEL
 ![MODEL](https://github.com/NathanielRilano/MediTime-Project/assets/117181953/1744e2e5-6b73-492d-844f-7cd44c2ad389)
 <br>CONTEXT DIAGRAM
 ![CONTEXT DIAGRAM](https://github.com/NathanielRilano/MediTime-Project/assets/117181953/e481704d-2a81-438e-a2bd-0a5d7108c3cc)
+<br>
+<br>LEVEL 0 DIAGRAM
+![LEVEL 0](https://github.com/NathanielRilano/MediTime-Project/assets/117181953/4b09e08a-11b4-460c-9df0-980cadd99bfd)
+<br>
+<br>USE CASE DIAGRAM
+![USE CASE](https://github.com/NathanielRilano/MediTime-Project/assets/117181953/17391dfd-a7b4-40de-b63c-cf5fa7b8745d)
+<br>
+<br>SEQUENCE DIAGRAM
+![SEQ](https://github.com/NathanielRilano/MediTime-Project/assets/117181953/688e4624-3d71-4017-9ff6-879e0ce9d3d7)
+
+
+
+
 
 
 
