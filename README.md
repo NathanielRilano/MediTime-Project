@@ -75,7 +75,8 @@ MODEL<br><br>
 <br>
 <br>SEQUENCE DIAGRAM<br>
 <br>
-![SEQ](https://github.com/NathanielRilano/MediTime-Project/assets/117181953/8a1010c5-3e3e-4763-92bb-64be983527c5)<br>
+<br>![image](https://github.com/NathanielRilano/MediTime-Project/assets/117181953/e93c8edf-51e3-40b6-83c8-788c759f8d1c)
+<br>
 
 
 <br><h2>PRESENTATION LINK:</h2><br>
