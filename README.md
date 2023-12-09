@@ -77,7 +77,7 @@ MODEL<br><br>
 <br>
 <br>![SEQ](https://github.com/NathanielRilano/MediTime-Project/assets/117181953/8cf24422-e8a2-4811-bffb-3cda55a73325)<br>
 <br>
-<h2>PRESENTATION LINK:</h2><br>
+<br><h2>PRESENTATION LINK:</h2><br>
 https://drive.google.com/file/d/1L-_Xc6DQEfECmxJh1VYD5R4gfU5fRa4P/view?usp=drive_link
 
 
