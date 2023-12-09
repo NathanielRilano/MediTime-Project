@@ -36,3 +36,11 @@ Based on the given rubric, the group assessed the system and this is the result:
 <br><b><h3>HOME PAGE 
 
 ![HOME](https://github.com/NathanielRilano/MediTime-Project/assets/117181953/75b7e829-b506-44ce-b7ad-079a24d74c36)
+<br>APPOINTMENT
+![APPOINTMENT](https://github.com/NathanielRilano/MediTime-Project/assets/117181953/3bc8ec35-1bf7-49cf-a237-fa223b528244)
+<br>APPOINTMENT CHECKER
+![CHECK APPOINTMENT](https://github.com/NathanielRilano/MediTime-Project/assets/117181953/a15b6941-4e67-4962-92e7-96a994aca6d4)
+<br>SIGN IN
+![SIGN IN](https://github.com/NathanielRilano/MediTime-Project/assets/117181953/258949dc-51be-4c84-94f0-fad7e99eeaf0)
+
+
