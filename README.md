@@ -71,11 +71,10 @@ MODEL<br><br>
 
 <br>USE CASE DIAGRAM<br>
 ![USE CASE](https://github.com/NathanielRilano/MediTime-Project/assets/117181953/53cf1e5e-b6bf-4971-be5f-2ea36a12fdef)
-
 <br>
 <br>SEQUENCE DIAGRAM<br>
 <br>
-<br>![image](https://github.com/NathanielRilano/MediTime-Project/assets/117181953/e93c8edf-51e3-40b6-83c8-788c759f8d1c)
+![image](https://github.com/NathanielRilano/MediTime-Project/assets/117181953/e93c8edf-51e3-40b6-83c8-788c759f8d1c)
 <br>
 
 
