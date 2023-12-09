@@ -9,10 +9,9 @@ MEDITIME "YOUR HEALTH VISIT SCHEDULER"<br>
 <br>* BAT 401 - Fundamentals of Business Analytics
 
 ### Group Members:
-* Cueto, Jonathan T. | 
-* Rilano, Nathaniel L. | 
+* Cueto, Jonathan T.  
+* Rilano, Nathaniel L. 
 * Samson, Arvee P. 
-* Teanila, Renz Mico 
 
 ## Self-Assesment
 Based on the given rubric, the group assessed the system and this is the result:
