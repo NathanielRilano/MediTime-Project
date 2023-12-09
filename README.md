@@ -24,7 +24,7 @@ vaccination clinic.<br>
 • Develop a user-friendly interface for patients to easily schedule, reschedule, or 
 cancel vaccination appointments. Consider incorporating multiple communication 
 channels, such as online portals, mobile apps, and phone services.<br>
-3. Flexible Scheduling Options:<br><br>
+<br>3. Flexible Scheduling Options:<br>
 <br>• To allow patients to create accounts with their personal information, appointment 
 slots and to identify if they are a citizen of Talumpok Silangan<br>
 • Objective: Provide flexibility in scheduling options, allowing individuals to 
