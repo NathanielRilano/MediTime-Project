@@ -14,17 +14,17 @@ within the community.<br>
 <br><h2>Objectives of the Project</h2><br>
 Implementing a medical scheduling system for vaccination comes with specific objectives aimed 
 at ensuring a smooth and efficient process for both healthcare providers.<br>
-1. Minimize Wait Times:<br>
-<br>• To efficiently schedule and manage appointments for healthcare providers in 
+1. Minimize Wait Times:<br><br>
+• To efficiently schedule and manage appointments for healthcare providers in 
 Barangay Talumpok Silangan.<br>
 <br>• Reduce patient wait times by implementing an optimized scheduling system that 
 minimizes overbooking and ensures a steady flow of patients throughout the 
 vaccination clinic.<br>
-<br>2. User-friendly Patient Interface:<br>
+2. User-friendly Patient Interface:<br><br>
 <br>• Develop a user-friendly interface for patients to easily schedule, reschedule, or 
 cancel vaccination appointments. Consider incorporating multiple communication 
 channels, such as online portals, mobile apps, and phone services.<br>
-<br>3. Flexible Scheduling Options:<br>
+3. Flexible Scheduling Options:<br><br>
 <br>• To allow patients to create accounts with their personal information, appointment 
 slots and to identify if they are a citizen of Talumpok Silangan<br>
 • Objective: Provide flexibility in scheduling options, allowing individuals to 
