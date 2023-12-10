@@ -41,7 +41,8 @@ ________________________________________________________________________________
 ### Group Members:
 * Cueto, Jonathan T.  
 * Rilano, Nathaniel L. 
-* Samson, Arvee P. 
+* Samson, Arvee P.
+* Teanila, Renz Mico
 
 ## Self-Assesment
 Based on the given rubric, the group assessed the system and this is the result:
@@ -58,9 +59,10 @@ Based on the given rubric, the group assessed the system and this is the result:
 
 | SR-Code                      |         Member         |  Grade  |              Desgination              |
 | ---------------------------- | ---------------------- | ------- | --------------------------------------|   
-| 21-05699@g.batstate-u.edu.ph | Cueto, Jonathan T.     |   30%   | System Maintaner/Documentator         |
+| 21-05699@g.batstate-u.edu.ph | Cueto, Jonathan T.     |   25%   | System Maintaner/Documentator         |
 | 21-05867@g.batstate-u.edu.ph | Rilano, Nathaniel L.   |   40%   | Programmer/Web Developer/Documentator |
-| 21-09000@g.batstate-u.edu.ph | Samson, Arvee P.       |   30%   | System Analyst/Documentator           |
+| 21-09000@g.batstate-u.edu.ph | Samson, Arvee P.       |   25%   | System Analyst/Documentator           |
+| 21-06203@g.batstate-u.edu.ph | Teanila, Renz Mico     |   10%   | Documentator                          |
 |                              | Total                  |   100%  |                                       |
 <br>
 <br><b><h2>HOME PAGE 
